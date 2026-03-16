@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Sameer%20Ahmad&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20in%20Progress&descAlignY=58&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Sameer%20Ahmad&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=MCA+Data+Science+%26+AI+%40+BBD+University;Python+%7C+Machine+Learning+%7C+Deep+Learning;3+Internships+%7C+Real-World+ML+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+MCA+%40+BBD+University;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+Systems+One+Project+at+a+Time)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/afrozsameerahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
@@ -17,10 +17,11 @@
 
 ## About Me
 
-First-year **MCA student in Data Science & AI** at BBD University, Lucknow, with hands-on experience from 3 industry internships and a track record of building end-to-end ML projects. I focus on turning raw data into actionable insights and production-ready models.
+**AI Engineer** pursuing MCA in Data Science & AI at BBD University, Lucknow. I have hands-on experience from 3 industry internships and a growing portfolio of real-world ML and AI projects. I focus on building intelligent, data-driven systems and production-ready AI models.
 
 - 🎓 **MCA (Data Science & AI)** — BBD University, Lucknow *(July 2025 – Present)*
 - 💼 Interned at **Minematics · Flora Edze · Cognifyz Technologies**
+- 🤖 Focused on **AI Engineering, MLOps & Intelligent System Design**
 - 🔍 Skilled in **EDA, Feature Engineering, Time Series Forecasting & Model Evaluation**
 - 📍 Lucknow, Uttar Pradesh, India
 
@@ -94,9 +95,10 @@ Restaurant dataset cleaned from scratch — missing values handled, features eng
 
 ---
 
-## Currently Learning
+## Currently Building
 
 ```text
+AI Engineering       →  LLMs, Prompt Engineering, AI APIs
 Deep Learning        →  TensorFlow, CNNs, LSTMs
 MLOps & Deployment   →  FastAPI, Model Serving, Pipelines
 AI System Design     →  Architecture, Scalability
@@ -107,7 +109,7 @@ Advanced ML          →  Ensemble Methods, Hyperparameter Tuning
 
 <div align="center">
 
-*Open to collaborations, internships, and data science opportunities.*
+*Open to collaborations, internships, and AI engineering opportunities.*
 <br/>
 <a href="https://linkedin.com/in/afrozsameerahmad"><b>LinkedIn</b></a> · <a href="mailto:sameerahmad723898@gmail.com"><b>Email</b></a> · <a href="https://sameer-portfolio-eight-orcin.vercel.app/"><b>Portfolio</b></a>
 
