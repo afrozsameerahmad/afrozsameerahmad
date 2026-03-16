@@ -1,15 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Sameer%20Ahmad&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+MCA+%40+BBD+University;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+AI+Systems+One+Project+at+a+Time)](https://git.io/typing-svg)
+<br/>
 
-<p>
-  <a href="https://linkedin.com/in/afrozsameerahmad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-  <a href="mailto:sameerahmad723898@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-  <a href="https://sameer-portfolio-eight-orcin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=afrozsameerahmad&label=Profile+Views&color=0e75b6&style=flat-square"/>
-</p>
+<img src="./profile.png" width="130" style="border-radius: 50%; border: 3px solid #6AD3F7;"/>
+
+<br/><br/>
+
+# Sameer Ahmad
+
+**AI Engineer · MCA in Data Science & AI**
+
+*Building intelligent systems with Python, ML & Deep Learning*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/afrozsameerahmad)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sameerahmad723898@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://sameer-portfolio-eight-orcin.vercel.app/)&nbsp;
+[![Views](https://komarev.com/ghpvc/?username=afrozsameerahmad&label=Profile+Views&color=0e75b6&style=flat-square)](https://github.com/afrozsameerahmad)
 
 </div>
 
@@ -17,89 +27,100 @@
 
 ## About Me
 
-**AI Engineer** pursuing MCA in Data Science & AI at BBD University, Lucknow. I have hands-on experience from 3 industry internships and a growing portfolio of real-world ML and AI projects. I focus on building intelligent, data-driven systems and production-ready AI models.
+I'm an **AI Engineer** pursuing my MCA in Data Science & Artificial Intelligence at BBD University, Lucknow. With 3 completed internships and hands-on ML projects, I build data-driven AI solutions — from data pipelines to deployed models.
 
 - 🎓 **MCA (Data Science & AI)** — BBD University, Lucknow *(July 2025 – Present)*
-- 💼 Interned at **Minematics · Flora Edze · Cognifyz Technologies**
-- 🤖 Focused on **AI Engineering, MLOps & Intelligent System Design**
-- 🔍 Skilled in **EDA, Feature Engineering, Time Series Forecasting & Model Evaluation**
+- 💼 Worked at **Minematics · Flora Edze · Cognifyz Technologies**
+- 🤖 Building towards **AI Engineering, MLOps & Production AI Systems**
+- 🔍 Strong in **EDA, Time Series Forecasting, Feature Engineering & Model Evaluation**
 - 📍 Lucknow, Uttar Pradesh, India
 
 ---
 
-## Work Experience
+## Experience
 
-| Company | Role | Highlights |
+| Company | Role | Work |
 |---|---|---|
-| **Minematics** | Data Science Intern | Cleaned & preprocessed structured datasets; built ML models with Scikit-learn; delivered EDA reports with Matplotlib & Seaborn |
-| **Flora Edze** | Data Science Intern *(Project-Based)* | End-to-end e-commerce sales forecasting; historical trend analysis; business insight reporting |
-| **Cognifyz Technologies** | Data Science Intern *(Remote)* | Restaurant dataset analysis; missing value treatment; correlation & feature engineering; EDA with Pandas & Matplotlib |
+| **Minematics** | Data Science Intern | Data preprocessing, EDA, ML model development with Scikit-learn, visualization with Matplotlib & Seaborn |
+| **Flora Edze** | Data Science Intern *(Project-Based)* | End-to-end e-commerce sales forecasting, historical trend analysis, business reporting |
+| **Cognifyz Technologies** | Data Science Intern *(Remote)* | Restaurant dataset cleaning, feature engineering, correlation analysis, EDA with Pandas & Matplotlib |
 
 ---
 
 ## Tech Stack
 
-**Languages & Data**
+**Core**
 `Python` `SQL` `Pandas` `NumPy`
 
-**Machine Learning**
-`Scikit-learn` `XGBoost` `ARIMA` `Facebook Prophet` `Time Series Analysis` `Regression`
+**Machine Learning & Forecasting**
+`Scikit-learn` `XGBoost` `ARIMA` `Facebook Prophet` `Time Series` `Regression`
 
 **Deep Learning**
-`TensorFlow` `Neural Networks`
+`TensorFlow` `Neural Networks` `LSTM`
 
 **Visualization**
 `Matplotlib` `Seaborn` `Microsoft Excel`
 
-**Tools & Databases**
-`Jupyter Notebook` `VS Code` `Git` `GitHub` `MySQL` `MS SQL Server`
+**Tools & Platforms**
+`Jupyter Notebook` `VS Code` `Git` `GitHub` `FastAPI`
 
-**Data Science Techniques**
-`EDA` `Data Cleaning` `Feature Engineering` `Model Evaluation (MAE · RMSE · MAPE)` `Data Pipelines` `Basic Model Deployment`
+**Databases**
+`MySQL` `MS SQL Server`
+
+**Techniques**
+`EDA` `Data Cleaning` `Feature Engineering` `Model Evaluation (MAE · RMSE · MAPE)` `Data Pipelines` `Model Deployment`
 
 ---
 
 ## Projects
 
 ### [📊 Sales Forecasting System](https://github.com/afrozsameerahmad/FloraEdze-sales-forecasting-project)
-End-to-end sales prediction pipeline built during the Flora Edze internship. Trains and compares **ARIMA, Random Forest, XGBoost, and LSTM** on historical sales data. Full preprocessing, feature engineering, and evaluation (RMSE, MAE) included.
-`Python` `XGBoost` `ARIMA` `LSTM` `Scikit-learn`
+End-to-end sales prediction pipeline comparing **ARIMA, Random Forest, XGBoost and LSTM** on historical e-commerce data. Includes full preprocessing, feature engineering, and evaluation using RMSE and MAE metrics. Built during the Flora Edze internship.
+
+`Python` · `XGBoost` · `ARIMA` · `LSTM` · `Scikit-learn` · `Pandas`
 
 ---
 
 ### [🏃 Fitabase Fitness & Sleep Analysis](https://github.com/afrozsameerahmad/Fitabase-Fitness-Sleep-Analysis)
-Exploratory analysis of Fitbit daily activity and sleep records. Surfaces patterns in steps, calories burned, active minutes, and sleep quality through visual storytelling.
-`Python` `Pandas` `Matplotlib` `Seaborn`
+Deep EDA on Fitbit activity and sleep data — steps, calories burned, active minutes, distance, and sleep quality patterns. Surfaces actionable health insights through data visualisation.
+
+`Python` · `Pandas` · `Matplotlib` · `Seaborn`
 
 ---
 
-### [🍽️ Restaurant Data Analysis — Cognifyz Internship](https://github.com/afrozsameerahmad/Cognifyz_Internship_tasks)
-Restaurant dataset cleaned from scratch — missing values handled, features engineered, and correlation studies visualised. Delivered as part of the Cognifyz Technologies remote internship.
-`Python` `Pandas` `NumPy` `Matplotlib` `Excel`
+### [🍽️ Restaurant Data Analysis](https://github.com/afrozsameerahmad/Cognifyz_Internship_tasks)
+Restaurant dataset analysed end-to-end for the Cognifyz Technologies internship. Handled missing values, engineered features, ran correlation studies, and delivered clear visual insights.
+
+`Python` · `Pandas` · `NumPy` · `Matplotlib` · `Excel`
 
 ---
- 
+`Open Learning` · `Daily Commits` · `ML to AI Engineering`
+
+---
 
 ## Currently Building
 
 ```text
-AI Engineering       →  LLMs, Prompt Engineering, AI APIs
-Deep Learning        →  TensorFlow, CNNs, LSTMs
-MLOps & Deployment   →  FastAPI, Model Serving, Pipelines
-AI System Design     →  Architecture, Scalability
-Advanced ML          →  Ensemble Methods, Hyperparameter Tuning
+AI Engineering     →  LLMs, Prompt Engineering, AI APIs
+Deep Learning      →  TensorFlow, CNNs, LSTMs
+MLOps              →  FastAPI, Model Serving, Pipelines
+AI System Design   →  Scalable Architectures
 ```
 
 ---
 
 <div align="center">
 
-*Open to collaborations, internships, and AI engineering opportunities.*
+*Open to AI engineering internships, collaborations, and project opportunities.*
+
 <br/>
-<a href="https://linkedin.com/in/afrozsameerahmad"><b>LinkedIn</b></a> · <a href="mailto:sameerahmad723898@gmail.com"><b>Email</b></a> · <a href="https://sameer-portfolio-eight-orcin.vercel.app/"><b>Portfolio</b></a>
+
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afrozsameerahmad)&nbsp;
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerahmad723898@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://sameer-portfolio-eight-orcin.vercel.app/)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>
