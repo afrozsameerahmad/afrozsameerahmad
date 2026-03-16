@@ -78,22 +78,7 @@ Restaurant dataset cleaned from scratch — missing values handled, features eng
 `Python` `Pandas` `NumPy` `Matplotlib` `Excel`
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=afrozsameerahmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrozsameerahmad&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=afrozsameerahmad&theme=tokyonight&hide_border=true" width="55%"/>
-
-</div>
-
----
+ 
 
 ## Currently Building
 
