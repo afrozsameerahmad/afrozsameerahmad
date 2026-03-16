@@ -142,17 +142,7 @@ I'm a **first-year MCA student** specializing in **Data Science & Artificial Int
         <img src="https://img.shields.io/badge/Matplotlib-darkblue?style=flat-square"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>📚 Data Scientist Journey</h3>
-      <a href="https://github.com/afrozsameerahmad/Data-Scientist-Journey">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=afrozsameerahmad&repo=Data-Scientist-Journey&theme=tokyonight&hide_border=true" width="100%"/>
-      </a>
-      <p>A public, structured log of my daily Data Science learning — Python foundations, linear algebra, ML algorithms, deep learning experiments, and AI system design notes.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Learning-Journal-brightgreen?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Open-Source-blueviolet?style=flat-square"/>
-      </p>
-    </td>
+     
   </tr>
 </table>
 
